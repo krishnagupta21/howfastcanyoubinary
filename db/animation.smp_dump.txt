@@ -1,0 +1,33 @@
+
+State Machine - |animation|y_Q
+Name y_Q.DELETE_ALLy y_Q.DELETE_ALLx y_Q.Finish y_Q.Check y_Q.Count_1_sec y_Q.Yd y_Q.Xd y_Q.Yc y_Q.Xc y_Q.Wait 
+y_Q.Wait 0 0 0 0 0 0 0 0 0 0 
+y_Q.Xc 0 0 0 0 0 0 0 0 1 1 
+y_Q.Yc 0 0 0 0 0 0 0 1 0 1 
+y_Q.Xd 0 0 0 0 0 0 1 0 0 1 
+y_Q.Yd 0 0 0 0 0 1 0 0 0 1 
+y_Q.Count_1_sec 0 0 0 0 1 0 0 0 0 1 
+y_Q.Check 0 0 0 1 0 0 0 0 0 1 
+y_Q.Finish 0 0 1 0 0 0 0 0 0 1 
+y_Q.DELETE_ALLx 0 1 0 0 0 0 0 0 0 1 
+y_Q.DELETE_ALLy 1 0 0 0 0 0 0 0 0 1 
+
+State Machine - |animation|prev_num_of_boxes
+Name prev_num_of_boxes.110 prev_num_of_boxes.101 prev_num_of_boxes.100 prev_num_of_boxes.011 prev_num_of_boxes.010 prev_num_of_boxes.001 prev_num_of_boxes.000 
+prev_num_of_boxes.000 0 0 0 0 0 0 0 
+prev_num_of_boxes.001 0 0 0 0 0 1 1 
+prev_num_of_boxes.010 0 0 0 0 1 0 1 
+prev_num_of_boxes.011 0 0 0 1 0 0 1 
+prev_num_of_boxes.100 0 0 1 0 0 0 1 
+prev_num_of_boxes.101 0 1 0 0 0 0 1 
+prev_num_of_boxes.110 1 0 0 0 0 0 1 
+
+State Machine - |animation|num_of_boxes
+Name num_of_boxes.110 num_of_boxes.101 num_of_boxes.100 num_of_boxes.011 num_of_boxes.010 num_of_boxes.001 num_of_boxes.000 
+num_of_boxes.000 0 0 0 0 0 0 0 
+num_of_boxes.001 0 0 0 0 0 1 1 
+num_of_boxes.010 0 0 0 0 1 0 1 
+num_of_boxes.011 0 0 0 1 0 0 1 
+num_of_boxes.100 0 0 1 0 0 0 1 
+num_of_boxes.101 0 1 0 0 0 0 1 
+num_of_boxes.110 1 0 0 0 0 0 1 

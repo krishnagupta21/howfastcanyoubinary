@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'CLOCK_50'
+Slack : -4.971
+TNS   : -362.265
+
+Type  : Slow Model Setup 'prev_num_of_boxes.101'
+Slack : -0.432
+TNS   : -0.720
+
+Type  : Slow Model Setup 'reached_bottom'
+Slack : -0.142
+TNS   : -0.142
+
+Type  : Slow Model Setup 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 33.144
+TNS   : 0.000
+
+Type  : Slow Model Hold 'reached_bottom'
+Slack : -2.355
+TNS   : -2.355
+
+Type  : Slow Model Hold 'CLOCK_50'
+Slack : -1.302
+TNS   : -25.188
+
+Type  : Slow Model Hold 'prev_num_of_boxes.101'
+Slack : -0.137
+TNS   : -0.137
+
+Type  : Slow Model Hold 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 0.516
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'reached_bottom'
+Slack : -0.500
+TNS   : -8.000
+
+Type  : Slow Model Minimum Pulse Width 'prev_num_of_boxes.101'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'CLOCK_50'
+Slack : 7.620
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 17.873
+TNS   : 0.000
+
+Type  : Fast Model Setup 'CLOCK_50'
+Slack : -1.569
+TNS   : -100.632
+
+Type  : Fast Model Setup 'prev_num_of_boxes.101'
+Slack : 0.244
+TNS   : 0.000
+
+Type  : Fast Model Setup 'reached_bottom'
+Slack : 0.566
+TNS   : 0.000
+
+Type  : Fast Model Setup 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 36.912
+TNS   : 0.000
+
+Type  : Fast Model Hold 'reached_bottom'
+Slack : -1.507
+TNS   : -1.507
+
+Type  : Fast Model Hold 'CLOCK_50'
+Slack : -1.071
+TNS   : -34.838
+
+Type  : Fast Model Hold 'prev_num_of_boxes.101'
+Slack : 0.112
+TNS   : 0.000
+
+Type  : Fast Model Hold 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 0.237
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'reached_bottom'
+Slack : -0.500
+TNS   : -8.000
+
+Type  : Fast Model Minimum Pulse Width 'prev_num_of_boxes.101'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'CLOCK_50'
+Slack : 7.620
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 17.873
+TNS   : 0.000
+
+------------------------------------------------------------
