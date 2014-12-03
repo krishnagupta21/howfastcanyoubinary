@@ -13,7 +13,7 @@ To play the game the player has to enter the binary equivalent (using the DE2 bo
 This is an original game and no implementation of a similar game can be found on the internet. The motivation behind the game was to improve this very essential skill in students studying Digital Electronics or a related course. This game also improves focus and concentration. The most important part of the project is that it makes learning fun for every player. Also, students of any level can play the game. 
 
 Here are a few screenshots-
-![alt tag](/http://postimg.org/image/sr5pkv4mt/)
-![alt tag](/http://postimg.org/image/sjxlo3rv5/)
-![alt tag](/http://postimg.org/image/jt833mssv/)
+![alt tag](http://postimg.org/image/sr5pkv4mt/)
+![alt tag](http://postimg.org/image/sjxlo3rv5/)
+![alt tag](http://postimg.org/image/jt833mssv/)
 
